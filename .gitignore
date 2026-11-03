@@ -1,0 +1,16 @@
+# Fișiere generate la compilare
+build/
+*.o
+*.obj
+*.d
+*.exe
+*.out
+*.s
+
+# Python
+__pycache__/
+
+# Setări locale ale editorului (căile depind de calculator)
+.vscode/
+
+# Notă: results/ NU e ignorat - roadmap-ul îl cere ca livrabil în repository.
